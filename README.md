@@ -1,6 +1,6 @@
-# vex-wares
+# Vex Warez
 
-vex-wares is a public collection of AI skills, structured prompt systems, and orchestration patterns developed while building and refining VEX.
+Vex Warez is a public collection of AI skills, structured prompt systems, and orchestration patterns developed while building and refining VEX.
 
 This repository serves as both a working archive and an open reference layer for modular reasoning components.
 
